@@ -9,8 +9,8 @@
 * 专业：物联网工程
 * 学历：本科（大三）
 * 毕业院校：金陵科技学院
-* 个人主页：http://summerscar.com/
-* 简历：http://summerscar.win/resume/
+* 个人主页：[http://summerscar.com/](http://summerscar.com/)
+* 简历：[http://summerscar.win/resume/](http://summerscar.win/resume/)
 * 联系方式:	13160035003
 * 邮箱:	shen.yus@163.com
 
