@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="950">
-                <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <first_editor relative-caret-position="429">
+                <caret line="75" column="2" lean-forward="false" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495605763061</updated>
-      <workItem from="1495605764658" duration="4533000" />
+      <workItem from="1495605764658" duration="4623000" />
     </task>
     <task id="LOCAL-00001" summary="add resume">
       <created>1495608959912</created>
@@ -147,11 +147,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495610143317</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add resume">
+      <created>1495610313482</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1495610313482</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4533000" />
+    <option name="totallyTimeSpent" value="4623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -194,8 +201,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="950">
-            <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <first_editor relative-caret-position="429">
+            <caret line="75" column="2" lean-forward="false" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
