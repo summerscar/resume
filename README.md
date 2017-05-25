@@ -41,14 +41,14 @@
     * 利用axios从API获取天气数据并且对添加城市存在性的判断
     * 输入框下拉菜单的候选城市的显示利用了lodash的延时功能，降低Ajax请求频率
     
-3. [模仿天猫页面](http://summerscar.com/demos/tmall)
+3. [模仿天猫页面](http://summerscar.com/#/demos/tmall)
     * 使用HTML,CSS及JS进行对天猫**多个**页面的模仿布局
     
 4. 其他小项目
-    * [Canvas实现绘图板的效果](http://summerscar.com/demos/canvasDraw)
-    * [JS自定义H5播放器控件](http://summerscar.com/demos/player)
-    * [表格的排序](http://summerscar.com/demos/tableSort)
-    * [对教务系统数据的获取以及课程表，成绩的显示](http://summerscar.com/demos/demo6)
+    * [Canvas实现绘图板的效果](http://summerscar.com/canvasDraw/draw.html)
+    * [JS自定义H5播放器控件](http://summerscar.com/player/video.html)
+    * [表格的排序](http://summerscar.com/tableSort/tablesort.html)
+    * [对教务系统数据的获取以及课程表，成绩的显示](http://summerscar.com/#/demos/demo6)
     
 ## 其他技能
 1. AE/AfterEffects
