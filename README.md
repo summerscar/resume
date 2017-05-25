@@ -51,7 +51,7 @@
     * [对教务系统数据的获取以及课程表，成绩的显示](http://summerscar.com/#/demos/demo6)
     
 ## 其他技能
-1. AE/AfterEffects
+1. [AE/AfterEffects](http://summerscar.com/#/otherDemos)
     * 能够熟练使用AfterEffects制作GIF动画以及视频短片
 
 2. PR/Premiere
