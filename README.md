@@ -10,7 +10,7 @@
 * 学历：本科（大三）
 * 毕业院校：金陵科技学院
 * 个人主页：[http://summerscar.com/](http://summerscar.com/)
-* 简历：[https://github.com/summerscar/resume/blob/master/README.md](https://github.com/summerscar/resume/blob/master/README.md)
+* 网页简历：[https://github.com/summerscar/resume/blob/master/README.md](https://github.com/summerscar/resume/blob/master/README.md)
 * 联系方式:	13160035003
 * 邮箱:	shen.yus@163.com
 
