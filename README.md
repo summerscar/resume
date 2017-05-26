@@ -24,8 +24,8 @@
     * 了解ES6语法中新增特性
 3. 框架&UI&工具
     * 对Vue.js的使用有一定经验，了解数据驱动，组件，路由等概念
-    * 了解Bootstrap，Layui,Element ui等常用UI框架，进行响应式布局及美化
-    * 对组件化开发，webpack,node.js有一定了解
+    * 了解Bootstrap，Layui，Element ui等常用UI框架，进行响应式布局及美化
+    * 对组件化开发，webpack，node.js有一定了解
     * 了解Github的使用以及Markdown文档的编写
     
 ## 项目经验
