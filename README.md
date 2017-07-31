@@ -9,7 +9,7 @@
 * 专业：物联网工程
 * 学历：本科（大三）
 * 毕业院校：金陵科技学院
-* 个人主页：[http://summerscar.com/](http://summerscar.com/)
+* 博客：[http://summerscar.me/](http://summerscar.com/)
 * 网页简历：[https://github.com/summerscar/resume/blob/master/README.md](https://github.com/summerscar/resume/blob/master/README.md)
 * 联系方式:	13160035003
 * 邮箱:	shen.yus@163.com
@@ -19,32 +19,42 @@
     * 能遵循 W3C 规范，写出规范化，语义化的代码。注重代码的可维护性及性能优化
     * 熟悉HTML5以及CSS3的新特性,熟练使用盒模型，浮动，定位，flex等
 2. JavaScript
-    * 熟悉 JavaScript 和 jQuery ，Ajax请求等
+    * 熟悉 JavaScript 
     * 掌握事件模型，DOM，BOM操作
-    * 了解ES6语法中新增特性
+    * 了解并能使用ES6语法中常用新增特性
 3. 框架&UI&工具
-    * 对Vue.js的使用有一定经验，了解数据驱动，组件，路由等概念
-    * 了解Bootstrap，Layui，Element ui等常用UI框架，进行响应式布局及美化
+    * 熟悉Vue.js的使用，了解数据驱动，组件，路由等概念
+    * 了解Bootstrap，Element ui等常用UI框架，进行响应式布局及美化
+    * 熟悉版本控制工具Git的常用操作以及Markdown文档的编写
     * 对组件化开发，webpack，node.js有一定了解
-    * 了解Github的使用以及Markdown文档的编写
-    
+
 ## 项目经验
 1. [个人主页](http://summerscar.com/)
     * 利用Vue-cli工具，尝试通过组件化概念进行构建单页项目
     * 通过路由的形式，对多个页面、组件在单页中进行整合
 
-2. [天气预报](http://summerscar.com/weather/weather.html)
-    * 模仿自安卓APP Pure天气 的移动端网页
-    * 利用Vue.js的数据驱动概念配合Element ui进行构建
+2. [智能布线系统](http://120.25.155.70/rita/#/rita)
+    * 采用前后端分离进行开发（老师的自接项目）项目，主要负责首页中多项业务逻辑功能的开发
+    * 技术栈 Vue-cli+VueX+iView+Axios+部分ES6语法
+    * 根据后台数据动态获取机柜信息，楼层信息
+    * 对机柜的端口信息级楼层端口的可视化处理
+
+3. [记事本WebAPP](http://diary.summerscar.com/)    
+    * 尝试使用 Node.js+mongodb+vue 进行一个小型的完整产品的构建
+    * 使用Express框架处理后台接口与mongodb进行对接
+    * 前台完成基本的日记的记录、删除、修改的各种功能以及用户注册登录功能
+    * 后台数据的管理页面还在上线中...
+
+4. [天气预报WebAPP](http://summerscar.com/weather/weather.html)
+    * 利用Vue.js+Element ui进行构建
     * 利用Canvas根据获取数据进行对未来天气的曲线图，风速等进行绘制
-    * 城市列表在LocalStorage中保存，每次开启读取并添加本地数据，显示设定过默认的城市
     * 利用axios从API获取天气数据并且对添加城市存在性的判断
     * 输入框下拉菜单的候选城市的显示利用了lodash的延时功能，降低Ajax请求频率
     
-3. [模仿天猫页面](http://summerscar.com/#/demos/tmall)
+5. [模仿天猫页面](http://summerscar.com/#/demos/tmall)
     * 使用HTML,CSS及JS进行对天猫**多个**页面的模仿布局
     
-4. 其他小项目
+6. 其他小项目
     * [Canvas实现绘图板的效果](http://summerscar.com/canvasDraw/draw.html)
     * [JS自定义H5播放器控件](http://summerscar.com/player/video.html)
     * [表格的排序](http://summerscar.com/tableSort/tablesort.html)
