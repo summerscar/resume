@@ -34,7 +34,7 @@
 
 2. [智能布线系统](http://120.25.155.70/rita/#/rita)
     * 采用前后端分离进行开发（老师的自接项目）项目，负责整个项目中项业务逻辑功能的开发
-    * 技术栈 Vue-cli + vueX + vue router + iView+axios + 部分ES6语法
+    * 技术栈 Vue-cli + vueX + vue router + iView + axios + 部分ES6语法
     * 根据后台数据动态获取机柜信息，楼层信息
     * 对机柜的端口信息级楼层端口的可视化处理
 
