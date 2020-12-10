@@ -38,7 +38,7 @@
     * 了解 Web Components 规范
 4. 其他
     * 了解并独立开发过 Flutter 跨平台应用
-    * 了解并独立开发过 Chrome Extension、VS Code Extension、VS、Tampermonkey script
+    * 了解并独立开发过 Chrome Extension、VS Code Extension、Tampermonkey script
 
 ## 项目经验
 
