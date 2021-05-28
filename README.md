@@ -25,20 +25,19 @@
 1. HTML & CSS
     * 熟练使用 HTML 及 CSS 实现页面布局及效果
 2. JavaScript
-    * 熟练使用 JavaScript 以及 ES2015 ~ ES2020 等常用语法特性
+    * 熟练使用 JavaScript
     * 熟悉使用 TypeScript 开发 React 项目
 3. 框架 & UI & 工具
-    * 熟练使用 React、Vue2.0 框架
-    * 熟练使用 Ant Design of React UI 组件库
-    * 熟练使用 Git 作为代码管理工具
+    * 熟练使用 React、Vue 框架
+    * 熟练使用 Ant Design 组件库
+    * 熟练使用 Git 版本控制工具
     * 熟悉使用 Github Actions、 Gitlab CI 实现自动化发布
-    * 熟悉 Node.js 并编写脚本
-    * 了解 Webpack 常用配置，实现项目打包优化
-    * 了解 Docker 配合 CI/CD 实现自动化发布
-    * 了解 Web Components 规范
+    * 熟悉 Node.js
+    * 熟悉 Webpack 常用配置，实现项目打包优化
+    * 熟悉 Docker 配合 CI/CD 实现自动化发布
 4. 其他
-    * 了解并独立开发过 Flutter 跨平台应用
-    * 了解并独立开发过 Chrome Extension、VS Code Extension、Tampermonkey script
+    * 了解并开发 Flutter 跨平台应用
+    * 了解并开发 Chrome Extension、VS Code Extension、Tampermonkey script
 
 ## 项目经验
 
